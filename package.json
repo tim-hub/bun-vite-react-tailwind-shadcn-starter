@@ -16,7 +16,7 @@
     "tailwind",
     "shadcn",
     "ui",
-    "bun",
+    "bun"
   ],
   "scripts": {
     "dev": "vite --host 0.0.0.0",
