@@ -1,8 +1,23 @@
 {
-  "name": "virte-react-tailwind-shadcn",
+  "name": "vite-react-tailwind-shadcn",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": "tim-hub",
+  "license": "MIT",
+  "homepage": "https://github.com/tim-hub/vite-react-tailwind-shadcn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tim-hub/vite-react-tailwind-shadcn.git"
+  },
+  "keywords": [
+    "vite",
+    "react",
+    "tailwind",
+    "shadcn",
+    "ui",
+    "bun",
+  ],
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "tsc -b && vite build",
